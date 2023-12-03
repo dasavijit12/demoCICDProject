@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-03T20:18:36 IST" name="Suite" finished-at="2023-12-03T20:18:39 IST" duration-ms="3389">
+    <groups>
+    </groups>
+    <test started-at="2023-12-03T20:18:36 IST" name="Test" finished-at="2023-12-03T20:18:39 IST" duration-ms="3389">
+      <class name="com.automation.cicd.demoSeleniumProject1.TestClass1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.cicd.demoSeleniumProject1.TestClass1@61df66b6]" started-at="2023-12-03T20:18:36 IST" name="setup" finished-at="2023-12-03T20:18:37 IST" duration-ms="1335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestGoogle()[pri:0, instance:com.automation.cicd.demoSeleniumProject1.TestClass1@61df66b6]" started-at="2023-12-03T20:18:37 IST" name="TestGoogle" finished-at="2023-12-03T20:18:39 IST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGoogle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.cicd.demoSeleniumProject1.TestClass1@61df66b6]" started-at="2023-12-03T20:18:39 IST" name="tearDown" finished-at="2023-12-03T20:18:39 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.cicd.demoSeleniumProject1.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
